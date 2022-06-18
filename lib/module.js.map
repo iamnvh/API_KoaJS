@@ -1,0 +1,1 @@
+{"version":3,"file":"module.js","names":["a","b","c"],"sources":["../src/module.js"],"sourcesContent":["export const a = 1;\r\nexport const b = 2;\r\nexport const c = 3;\r\n\r\nexport default c;"],"mappings":";;;;;;AAAO,MAAMA,CAAC,GAAG,CAAV;;AACA,MAAMC,CAAC,GAAG,CAAV;;AACA,MAAMC,CAAC,GAAG,CAAV;;eAEQA,C"}
